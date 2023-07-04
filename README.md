@@ -2,4 +2,4 @@
 to achieve grid reponsive we use 
 grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
 
-#linear gradiant
+# 2) linear gradiant
